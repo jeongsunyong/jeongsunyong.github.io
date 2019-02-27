@@ -7,7 +7,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Sunyong</b></a> I am a novice programmer in korea. </center>
+<center><a href="http://jeongsunyong.github.io/Moon"><b>Sunyong</b></a> I am a novice programmer in korea. </center>
 
 ## Jeong Sun yong 
 * 24 years old
@@ -18,7 +18,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-	https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/assets/img/about_1.jpeg?raw=true
+	https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/Moon/assets/img/about_1.jpeg?raw=true
 {% endcapture %}
 {% include gallery images=images caption="github preview." cols=2 %}
 
