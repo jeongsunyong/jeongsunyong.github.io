@@ -15,13 +15,18 @@ I am a 25 years old.
 and studing a programming, graphic, hard.
 
 #I like
+
 *ZZANGGOO
 
-<iframe src="https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/assets/img/zzanggoo.jpg?raw=true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+![Smithsonian Image](https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/assets/img/zzanggoo.jpg?raw=true)
+{: .image-right}
 
 *JIBRI STUDIO
-<iframe src="https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/assets/img/zibri.jpeg?raw=true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+![Smithsonian Image](https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/assets/img/zibri.jpeg?raw=true)
+{: .image-right}
+
 *PIXAR 
-<iframe src="https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/assets/img/insideout.jpg?raw=true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+![Smithsonian Image](https://github.com/jeongsunyong/jeongsunyong.github.io/blob/master/assets/img/insideout.jpg?raw=true)
+{: .image-right}
 
 
