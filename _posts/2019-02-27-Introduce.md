@@ -40,10 +40,13 @@ and studing a programming, graphic, hard.
 	2. pathapi
 	3. ImageMagick
 	4. envfile
-2.NUKESET
+
+2. NUKESET
 	1. gizmos
 	2. scripts
+
 3. study for datastructure
+
 4. vimset
 
 
