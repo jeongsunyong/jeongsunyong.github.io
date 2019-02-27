@@ -35,16 +35,15 @@ and studing a programming, graphic, hard.
 
 ### MY GITHUB CONTESTS
 
-1.CENTOS
-	1.scripts
-	2.pathapi
-	3.
+1. CENTOS
+	1. scripts
+	2. pathapi
+	3. ImageMagick
+	4. envfile
 2.NUKESET
-	1.gizmos
-	2.scripts
-	3.ImageMagick
-	4.envfile
-3.study for datastructure
-4.vimset
+	1. gizmos
+	2. scripts
+3. study for datastructure
+4. vimset
 
 
